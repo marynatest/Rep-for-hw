@@ -1,0 +1,36 @@
+{
+  "name": "homeworkone",
+  "version": "1.0.0",
+  "description": "test npm ",
+  "main": "index.js",
+  "dependencies": {
+    "jquery": "^3.6.0" 
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  },
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marynatest/Rep-for-hw.git"
+  },
+  "keywords": [
+    "node",
+    "npm"
+  ],
+  "author": "maryna <marinamoskalets93799@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marynatest/Rep-for-hw/issues"
+  },
+  "homepage": "https://github.com/marynatest/Rep-for-hw#readme",
+   "engines": {
+    "node": ">= 8.0.0",
+    "npm": ">= 5.0.0" 
+  },
+  "browserslist": [
+    "defaults"
+  ]
+} 
